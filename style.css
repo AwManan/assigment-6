@@ -1,0 +1,178 @@
+.btn-delivery{
+    background: rgba(241, 114, 40, 0.1);
+    color: #F17228;
+}
+
+.btn-delivery-2{
+    color: #757575;
+}
+
+.how{
+    color: #FFB30E;
+}
+.how-1{
+    color: white;
+    /* background-color: #F17228; */
+    background: linear-gradient(95.71deg, #FF7A7A -39.64%, #F75900 135.31%);
+
+}
+.how-2{
+    background: linear-gradient(180deg, rgba(255, 206, 103, 0.22) -42.47%, rgba(253, 237, 202, 0) 100%);
+
+}
+.how-3{
+    color: #F17228;
+
+}
+.card-text{
+    color: #9E9E9E;
+    ;
+}
+.how-5{
+    width: 100%;
+    background: #F17228;
+    color: white;
+    font-size: small;
+
+}
+.how-6{
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 0px 6px;
+}
+.mag{
+    margin-right: 0px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 3rem;
+}
+.uro{
+    justify-content: center;
+    align-items: center;
+    /* margin-left: 3rem; */
+}
+.how-7{
+    margin-top: 85px;
+
+}
+.how-8{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.how-9{
+    color: #79B93C;
+    background: #79B93C33;
+    border-radius: 15px;
+    margin-top: 15px;
+
+}
+.how-10{
+    border-radius: 15px;
+    margin-top: 15px;
+}
+.how-11{
+    color: #FFB30E;
+}
+.how-12{
+    background: linear-gradient(97.86deg, #FFBA26 -8.95%, #FF9A0E 109.24%);
+    box-shadow: 0px 20px 40px 0px #FFAE004A;
+
+    box-shadow: 0px 5px 10px 0px #FFAE0042;
+    
+}
+.how-13{
+    background: #FEFAF1;
+    
+}
+.how-14{
+    background: #FEFAF1;
+
+}
+.how-15{
+    width: 80px;
+    
+}
+.how-16{
+    background: #FEEFD0;
+    
+}
+.how-17{
+    border-radius: 8px;
+    
+}
+.how-18{
+    background: linear-gradient(92.84deg, #FFB800 -47.72%, #FF8A00 136.81%);
+
+}
+.how-19{
+    background: url(34031582.jpg);
+}
+.how-20{
+    /* background: #424242; */
+border-radius: 8px;
+;
+}
+.list{
+    list-style: none;
+}
+.how-21{
+    color: #ADADAD;
+
+
+}
+.how-22{
+    background: linear-gradient(92.84deg, #FFB800 -47.72%, #FF8A00 136.81%);
+    box-shadow: 0px 14px 32px 0px #FFB20E4A;
+
+    box-shadow: 0px 5px 8px 0px #DE97003D;
+    
+
+}
+.card-5{
+    border-radius: 10px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border: none;
+}
+.bg-5 img{
+    border-radius: 8px;
+}
+.bg-text{
+    margin: 30px 5px 10px 20px;
+}
+.main-text{
+    color: #ffb30e;
+}
+.end-text{
+    margin-top: 30px;
+}
+.btn-4{
+    width: 90%;
+    margin: 20px auto;
+    text-align: center;
+    padding: 10px;
+    background-color: #ffb30e;
+    border: none;
+    color: #ffffff;
+}
+
+.card-6{
+    margin-top: 40px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 8px;
+    border: none;
+}
+.bg-6 img{
+    border-radius: 8px;
+}
+.card-7{
+    margin-top: 40px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 8px;
+    border: none;
+}
+.how-23{
+    margin-top: 100px;
+}
+.how-24{
+    margin-bottom: 100px;
+}
